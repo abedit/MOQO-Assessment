@@ -1,6 +1,8 @@
 # MOQO Assessment
 This project serves to store the assessment for the Junior Mobile Developer position at MOQO. The prompt is to load a list of Points of Interest (POI) and display them on a map. Upon clicking on a marker, to show more details about the POI that was clicked.
 
+The APK can be downloaded by heading into the [releases](https://github.com/abedit/MOQO-Assessment/releases) section of this repository or simply by clicking [here](https://github.com/abedit/MOQO-Assessment/releases/download/v1.0.0/MOQOAssessment.apk).
+
 Brief summary of the app:
 - Loads a maximum of 10 POIs from the given API. If returned result is exactly 10, load the next page of results.
 - Show POIs as markers on the map.
