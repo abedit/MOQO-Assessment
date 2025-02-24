@@ -16,9 +16,6 @@
       <SelectionState runConfigName="Tests in 'com.abedit.moqo_assessment'">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="SectionWithValueTest">
-        <option name="selectionMode" value="DROPDOWN" />
-      </SelectionState>
       <SelectionState runConfigName="PoiCardListTest">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>

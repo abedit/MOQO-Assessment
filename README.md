@@ -16,3 +16,6 @@ Notes:
 - Once a POI card is clicked, a sheet will be displayed with detailed information about the POI.
 - In the email received with the challenge, I was told to only use the native SDK. Therefore, only native Android SDKs were used in the project.
 
+## Flowchart
+I created the following flowchart to visualize the flow of events and interactions in the app.
+![MOQO Assessment flowchart.png](MOQO%20Assessment%20flowchart.png)
