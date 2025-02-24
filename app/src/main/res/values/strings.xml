@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MOQO-Assessment</string>
+    <string name="point_of_interest">Points of Interest</string>
+    <string name="point_of_interest_details">POI Details</string>
+    <string name="provider">Provider</string>
+    <string name="unknown_provider">Unknown provider</string>
+    <string name="error_message">Error: %1$s</string>
+    <string name="poi_image_content_description">POI image</string>
+    <string name="vehicle_type">Vehicle Type</string>
+    <string name="unknown_vehicle_type">Unknown vehicle type</string>
+    <string name="provider_logo">Provider Logo</string>
+
+    <plurals name="number_of_points">
+        <item quantity="one">1 point</item>
+        <item quantity="other">%d points</item>
+    </plurals>
+</resources>
