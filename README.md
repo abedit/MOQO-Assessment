@@ -6,7 +6,7 @@ Brief summary of the app:
 - Show POIs as markers on the map.
 - Once a marker is clicked, show a card on the bottom that the user can click.
 - Once the card is clicked, load more details about the POI and show it in a sheet on top of the map.
-
+- The list of POIs as well as the detailed information of POIs are saved in memory to minimize the number of API calls.
  
 Notes:
 - UI wise, I took inspiration from the current MOQO app on the [playstore](https://play.google.com/store/apps/details?id=de.moqo.work). 
@@ -18,4 +18,5 @@ Notes:
 
 ## Flowchart
 I created the following flowchart to visualize the flow of events and interactions in the app.
+
 ![MOQO Assessment flowchart.png](MOQO%20Assessment%20flowchart.png)
